@@ -1,20 +1,20 @@
 ﻿#Political Parties
-USA_auth_soc_party:0 Authoritarian Socialist
-USA_auth_soc_party_long:0 Authoritarian Socialist
-USA_lib_soc_party:0 Libertarian Socialist
-USA_lib_soc_party_long:0 Libertarian Socialist
-USA_mod_soc_party:0 Moderate Socialist
-USA_mod_soc_party_long:0 Moderate Socialist
+USA_auth_soc_party:0 CPUSA (Hardliners)
+USA_auth_soc_party_long:0 Communist Party of the USA
+USA_lib_soc_party:0 CPUSA (Reformists)
+USA_lib_soc_party_long:0 Communist Party of the USA
+USA_mod_soc_party:0 CPUSA (Moderates)
+USA_mod_soc_party_long:0 Communist Party of the USA
 USA_soc_dem_party:0 Social Democrat
 USA_soc_dem_party_long:0 Social Democrat
-USA_lib_dem_party:0 Liberal Democrat
-USA_lib_dem_party_long:0 Liberal Democrat
-USA_con_dem_party:0 Conservative Democrat
-USA_con_dem_party_long:0 Conservative Democrat
-USA_auth_dem_party:0 Authoritarian Democrat
-USA_auth_dem_party_long:0 Authoritarian Democrat
-USA_despotist_party:0 Despotist
-USA_despotist_party_long:0 Despotist
+USA_lib_dem_party:0 Republicans
+USA_lib_dem_party_long:0 Republican Party
+USA_con_dem_party:0 Democrats
+USA_con_dem_party_long:0 Democratic Party
+USA_auth_dem_party:0 Dixiecrats
+USA_auth_dem_party_long:0 Democratic Party (Southern Faction)
+USA_despotist_party:0 Military Junta
+USA_despotist_party_long:0 Military Junta
 USA_fascist_party:0 Fascist
 USA_fascist_party_long:0 Fascist
 USA_ultranationalist_party:0 Ultranationalist
