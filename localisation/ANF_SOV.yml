@@ -1,0 +1,21 @@
+﻿#Political Parties
+SOV_auth_soc_party:0 CPSU (Hardliners)
+SOV_auth_soc_party_long:0 Communist Party of the Soviet Union (Kommunisticheskaya Partiya Sovetskogo Soyuza)
+SOV_lib_soc_party:0 CPSU (Reformists)
+SOV_lib_soc_party_long:0 Communist Party of the Soviet Union (Kommunisticheskaya Partiya Sovetskogo Soyuza)
+SOV_mod_soc_party:0 CPSU (Moderate)
+SOV_mod_soc_party_long:0 Communist Party of the Soviet Union (Kommunisticheskaya Partiya Sovetskogo Soyuza)
+SOV_soc_dem_party:0 Social Democrat
+SOV_soc_dem_party_long:0 Social Democrat
+SOV_lib_dem_party:0 Liberal Democrat
+SOV_lib_dem_party_long:0 Liberal Democrat
+SOV_con_dem_party:0 Conservative Democrat
+SOV_con_dem_party_long:0 Conservative Democrat
+SOV_auth_dem_party:0 Authoritarian Democrat
+SOV_auth_dem_party_long:0 Authoritarian Democrat
+SOV_despotist_party:0 Despotist
+SOV_despotist_party_long:0 Despotist
+SOV_fascist_party:0 Fascist
+SOV_fascist_party_long:0 Fascist
+SOV_ultranationalist_party:0 Ultranationalist
+SOV_ultranationalist_party_long:0 Ultranationalist
