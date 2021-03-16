@@ -1,0 +1,28 @@
+﻿#Political Parties
+GER_auth_soc_party:0 SED (Hardliners)
+GER_auth_soc_party_long:0 Socialist Unity Party of Germany (Sozialistische Einheitspartei Deutschlands)
+GER_lib_soc_party:0 SED (Reformists)
+GER_lib_soc_party_long:0 Socialist Unity Party of Germany (Sozialistische Einheitspartei Deutschlands)
+GER_mod_soc_party:0 SED (Moderates)
+GER_mod_soc_party_long:0 Socialist Unity Party of Germany (Sozialistische Einheitspartei Deutschlands)
+GER_soc_dem_party:0 SED (Centrists)
+GER_soc_dem_party_long:0 Socialist Unity Party of Germany (Sozialistische Einheitspartei Deutschlands)
+GER_lib_dem_party:0 LPDP
+GER_lib_dem_party_long:0 Liberal Democratic Party of Germany (Liberal-Demokratische Partei Deutschlands)
+GER_con_dem_party:0 NDPD
+GER_con_dem_party_long:0 National-Democratic Party of Germany (National-Demokratische Partei Deutschlands)
+GER_auth_dem_party:0 CDU/CSU
+GER_auth_dem_party_long:0 Christian Democratic Union of Germany (Christlich Demokratische Union Deutschlands)
+GER_despotist_party:0 DP
+GER_despotist_party_long:0 German Party (Deutsche Partei)
+GER_fascist_party:0 DRP
+GER_fascist_party_long:0 German Reich Party (Deutsche Reichspartei)
+GER_ultranationalist_party:0 DRP
+GER_ultranationalist_party_long:0 German Reich Party (Deutsche Reichspartei)
+
+GER_FDP:0 FDP
+GER_FDP_long:0 Free Democratic Party (Freie Demokratische Partei)
+
+#Ideas
+GER_fascist_crackdown:0 Fascist Crackdown
+GER_fascist_crackdown_desc:0 After losing the Second World War, the German Democratic Republic's secret police, Stasi, crackdowns on any fascist remnants still hiding in Germany. Many fascist parties went underground because of this, and Germany is safe and secure from another fasicst rise to power again, right?
