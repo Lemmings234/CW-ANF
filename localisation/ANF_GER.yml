@@ -24,5 +24,5 @@ GER_FDP:0 FDP
 GER_FDP_long:0 Free Democratic Party (Freie Demokratische Partei)
 
 #Ideas
-GER_fascist_crackdown:0 Fascist Crackdown
-GER_fascist_crackdown_desc:0 After losing the Second World War, the German Democratic Republic's secret police, Stasi, crackdowns on any fascist remnants still hiding in Germany. Many fascist parties went underground because of this, and Germany is safe and secure from another fasicst rise to power again, right?
+GER_stasi:0 Ministerium für Staatssicherheit
+GER_stasi_desc:0 After losing the Second World War, the German Democratic Republic's secret police, Ministerium für Staatssicherheit (also known as Stasi for short), crackdowns on any fascist remnants still hiding in Germany. Many fascist parties went underground because of this, and Germany is safe and secure from another fasicst rise to power again, right?

@@ -1,0 +1,27 @@
+##############
+# Germany
+##############
+
+ideas = {
+
+	#### Country Ideas
+
+	country = {
+
+		###################
+		###Initial Ideas###
+		###################
+
+		GER_stasi = {
+			on_add = { log = "[GetDateText]: [Root.GetName]: add idea GER_stasi"}
+
+			modifier = {
+			despotist_drift = -0.05
+			fascist_drift = -0.1
+			ultranationalist_drift = -0.1
+			}
+
+			picture = GER_stasi
+		}
+
+}
