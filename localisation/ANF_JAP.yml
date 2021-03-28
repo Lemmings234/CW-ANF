@@ -15,11 +15,11 @@ JAP_auth_dem_party:0 Authoritarian Democrat
 JAP_auth_dem_party_long:0 Authoritarian Democrat
 JAP_despotist_party:0 Despotist
 JAP_despotist_party_long:0 Despotist
-JAP_fascist_party:0 Fascist
-JAP_fascist_party_long:0 Fascist
-JAP_ultranationalist_party:0 Ultranationalist
-JAP_ultranationalist_party_long:0 Ultranationalist
+JAP_fascist_party:0 Taisei Yokusankai
+JAP_fascist_party_long:0 Taisei Yokusankai
+JAP_ultranationalist_party:0 Taisei Yokusankai
+JAP_ultranationalist_party_long:0 Taisei Yokusankai
 
 #Ideas
 JAP_postwar_malaise:0 Postwar Malaise
-JAP_postwar_malaise_desc:0 Despite maintaining the homeland, we lost the colonies that contributed to our economies during the war to the Soviet, and our economy took a big hit because of this.
+JAP_postwar_malaise_desc:0 Despite maintaining the homeland, we lost the colonies that contributed to our economy during the war to the Soviet, and our economy took a big hit because of this.

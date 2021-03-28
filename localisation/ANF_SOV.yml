@@ -5,17 +5,17 @@ SOV_lib_soc_party:0 CPSU (Reformists)
 SOV_lib_soc_party_long:0 Communist Party of the Soviet Union (Kommunisticheskaya Partiya Sovetskogo Soyuza)
 SOV_mod_soc_party:0 CPSU (Moderate)
 SOV_mod_soc_party_long:0 Communist Party of the Soviet Union (Kommunisticheskaya Partiya Sovetskogo Soyuza)
-SOV_soc_dem_party:0 Social Democrat
-SOV_soc_dem_party_long:0 Social Democrat
-SOV_lib_dem_party:0 Liberal Democrat
-SOV_lib_dem_party_long:0 Liberal Democrat
-SOV_con_dem_party:0 Conservative Democrat
-SOV_con_dem_party_long:0 Conservative Democrat
-SOV_auth_dem_party:0 Authoritarian Democrat
-SOV_auth_dem_party_long:0 Authoritarian Democrat
-SOV_despotist_party:0 Despotist
-SOV_despotist_party_long:0 Despotist
-SOV_fascist_party:0 Fascist
-SOV_fascist_party_long:0 Fascist
-SOV_ultranationalist_party:0 Ultranationalist
-SOV_ultranationalist_party_long:0 Ultranationalist
+SOV_soc_dem_party:0 Mensheviks
+SOV_soc_dem_party_long:0 Russian Social Democratic Labour Party (Rossiyskaya Sotsial Demokratichekaya Rabochaya Partiya)
+SOV_lib_dem_party:0 Kadets
+SOV_lib_dem_party_long:0 Constitutional Democratic Party (Konstitutsionno-Demokraticheskaya Partiya)
+SOV_con_dem_party:0 Octobrists
+SOV_con_dem_party_long:0 Union of October 17 (Soyuz 17 Oktyabrya)
+SOV_auth_dem_party:0 Octobrists
+SOV_auth_dem_party_long:0 Union of October 17 (Soyuz 17 Oktyabrya)
+SOV_despotist_party:0 URP
+SOV_despotist_party_long:0 Union of the Russian People (Soyuz Russkogo Naroda)
+SOV_fascist_party:0 RFP
+SOV_fascist_party_long:0 Russian Fascist Party (Rossiyskaya Fashistskaya Partiya)
+SOV_ultranationalist_party:0 RFP
+SOV_ultranationalist_party_long:0 Russian Fascist Party (Rossiyskaya Fashistskaya Partiya)
