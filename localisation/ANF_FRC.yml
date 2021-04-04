@@ -1,0 +1,28 @@
+﻿#Political Parties
+FRC_auth_soc_party:0 PCF (Hardliners)
+FRC_auth_soc_party_long:0 French Communist Party (Parti communiste français)
+FRC_lib_soc_party:0 PCF (Reformists)
+FRC_lib_soc_party_long:0 French Communist Party (Parti communiste français)
+FRC_mod_soc_party:0 SFIO
+FRC_mod_soc_party_long:0 French Section of the Workers' International (Section française de l'Internationale ouvrière)
+FRC_soc_dem_party:0 SFIO
+FRC_soc_dem_party_long:0 French Section of the Workers' International (Section française de l'Internationale ouvrière)
+FRC_lib_dem_party:0 PR (Gauche)
+FRC_lib_dem_party_long:0 Parti Radical
+FRC_con_dem_party:0 PR (Droit)
+FRC_con_dem_party_long:0 Parti Radical
+FRC_auth_dem_party:0 AD
+FRC_auth_dem_party_long:0 Alliance Démocratique
+FRC_despotist_party:0 PPF
+FRC_despotist_party_long:0 Parti Populaire Français
+FRC_fascist_party:0 MF
+FRC_fascist_party_long:0 Mouvement Franciste
+FRC_ultranationalist_party:0 MF
+FRC_ultranationalist_party_long:0 Mouvement Franciste
+
+FRC_PS:0 PS
+FRC_PS_long:0 Parti Socialiste
+FRC_PS2:0 PS
+FRC_PS2_long:0 Parti Socialiste
+FRC_CNIP:0 CNIP
+FRC_CNIP_long:0 National Centre of Independents and Peasants (Centre National des Indépendants et Paysans)
